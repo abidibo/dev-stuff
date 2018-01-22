@@ -9,7 +9,7 @@ In order to use vim with local installation of eslint:
 
 To make it work
 
-_____syntastyc__
+__syntastyc__
 
 - [Install Syntastic](https://github.com/vim-syntastic/syntastic)
 - In vim conf:
